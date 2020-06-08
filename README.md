@@ -7,7 +7,7 @@ in Wonderland_.
 
 ![Alice and the tiny door](/images/alicedoor.gif)
 
->“Curiouser and curiouser!” 
+>“Curiouser and curiouser!”
 >-- ― Lewis Carroll, Alice in Wonderland
 
 ## How to Do the Katas
@@ -29,6 +29,15 @@ For example, to get started on the _alphabet-cipher_ kata first.
 4. Check out the alphabet cipher instructions in the _README.md_.
 5. Add the code in the source files to make the tests pass.
 
+## Solve the katas in order
+
+1. Alphabet Cider
+2. Wonderland Number
+3. Fox, Goose and Bag of Corn
+4. Doublets
+5. Magic Square
+6. Tiny Maze
+7. Card Game of War
 
 ## License
 
